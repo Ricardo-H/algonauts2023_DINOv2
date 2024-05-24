@@ -3,7 +3,7 @@ For the competion of "algonauts2023"(http://algonauts.csail.mit.edu/challenge.ht
 # Our network structure
 draft：全过程流程图草稿（很多功能都还没加）  
 
-encoder：参考论文：Nakai .at [1] 中的encoder结构。  
+encoder：参考论文：Nakai et.al [1] 中的encoder结构。  
 
 Linear：适用于本研究的线性回归模型，还没有完成修改  
 
