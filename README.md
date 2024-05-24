@@ -9,5 +9,5 @@ Linear：适用于本研究的线性回归模型，还没有完成修改
 
 编辑与查看：https://app.diagrams.net/  or  download the exe. file from https://www.drawio.com/
 
-参考文献:
-[1][Nakai, T., Nishimoto, S. Quantitative models reveal the organization of diverse cognitive functions in the brain. Nat Commun 11, 1142 (2020). ]:(https://doi.org/10.1038/s41467-020-14913-w)
+参考文献:  
+[1] [Nakai, T., Nishimoto, S. Quantitative models reveal the organization of diverse cognitive functions in the brain. Nat Commun 11, 1142 (2020). ]:(https://doi.org/10.1038/s41467-020-14913-w)
