@@ -1,4 +1,4 @@
-For the competion of "algonauts2023"(http://algonauts.csail.mit.edu/challenge.html)
+For the competion of "The 2023 Challenge: How the Human Brain Makes Sense of Natural Scenes"(http://algonauts.csail.mit.edu/challenge.html)
 
 # Our network structure
 draft：全过程流程图草稿（很多功能都还没加）  
