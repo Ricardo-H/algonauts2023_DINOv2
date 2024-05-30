@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "brain-train"
+version = "0.1.0"
+description = ""
+authors = ["Aoba Xu <xuyaqi888@live.cn>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.26.4"
+torch = "^2.3.0"
+torchvision = "^0.18.0"
+matplotlib = "^3.9.0"
+pandas = "^2.2.2"
+tqdm = "^4.66.4"
+seaborn = "^0.13.2"
+scikit-learn = "^1.5.0"
+
+
+[[tool.poetry.source]]
+name = "mirrors"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+priority = "primary"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
